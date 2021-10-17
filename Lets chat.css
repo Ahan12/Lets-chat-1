@@ -1,0 +1,26 @@
+.login_div {
+    margin-left: 400px;
+    background-color: white;
+    border-radius: 20px;
+    color: yellowgreen;
+}
+
+body {
+    background-color: turquoise;
+}
+
+h1 {
+    color: tomato;
+    margin-left: 600px;
+    font-family: 'Yeon Sung';
+}
+
+button {
+    width: 80%;
+    border-radius: 100px;
+}
+
+.logo {
+    margin-left: 190px;
+    border-radius: 50px;
+}
